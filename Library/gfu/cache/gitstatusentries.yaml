@@ -1,0 +1,1320 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-09-21T19:14:57.515+03:00
+  initializedAtString: 2020-09-21T19:14:57.515+03:00
+  entries:
+  - path: Assets/Plugins.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /home/unity/Projects/VegeRun/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/vege_1.unity
+    fullPath: /home/unity/Projects/VegeRun/Assets/Scenes/vege_1.unity
+    projectPath: Assets/Scenes/vege_1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /home/unity/Projects/VegeRun/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /home/unity/Projects/VegeRun/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB-lock
+    fullPath: /home/unity/Projects/VegeRun/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/08/08174d0c020e7cfdf03e08c2824a43a0
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/08/08174d0c020e7cfdf03e08c2824a43a0
+    projectPath: Library/Artifacts/08/08174d0c020e7cfdf03e08c2824a43a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0f/0f9bdee4936f1fd1749239c2502b53d6
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/0f/0f9bdee4936f1fd1749239c2502b53d6
+    projectPath: Library/Artifacts/0f/0f9bdee4936f1fd1749239c2502b53d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/18/183002df78d9500a70420f491c358adc
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/18/183002df78d9500a70420f491c358adc
+    projectPath: Library/Artifacts/18/183002df78d9500a70420f491c358adc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/21/216a5d912649232287f012f65731708c
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/21/216a5d912649232287f012f65731708c
+    projectPath: Library/Artifacts/21/216a5d912649232287f012f65731708c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/21/21c47785b9703062efc07d99f18209ea
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/21/21c47785b9703062efc07d99f18209ea
+    projectPath: Library/Artifacts/21/21c47785b9703062efc07d99f18209ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2c/2c05ce3f6a25d2e74150ddfdc2f21037
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/2c/2c05ce3f6a25d2e74150ddfdc2f21037
+    projectPath: Library/Artifacts/2c/2c05ce3f6a25d2e74150ddfdc2f21037
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/31/318cf168b512c62f98e2387f8441c9c5
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/31/318cf168b512c62f98e2387f8441c9c5
+    projectPath: Library/Artifacts/31/318cf168b512c62f98e2387f8441c9c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/32/32e63937abdb05b4d8ab91ccc76b5e3b
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/32/32e63937abdb05b4d8ab91ccc76b5e3b
+    projectPath: Library/Artifacts/32/32e63937abdb05b4d8ab91ccc76b5e3b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/35/35c2533ec6ca724474dd78cec64ce302
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/35/35c2533ec6ca724474dd78cec64ce302
+    projectPath: Library/Artifacts/35/35c2533ec6ca724474dd78cec64ce302
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/37/374af7bbfc5db33c23944bf5e9bf0d75
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/37/374af7bbfc5db33c23944bf5e9bf0d75
+    projectPath: Library/Artifacts/37/374af7bbfc5db33c23944bf5e9bf0d75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/44/4433a42d4f928f4384da5b267384c64d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/44/4433a42d4f928f4384da5b267384c64d
+    projectPath: Library/Artifacts/44/4433a42d4f928f4384da5b267384c64d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/49/49927f994f5c71159a67f234d5ae5e0c
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/49/49927f994f5c71159a67f234d5ae5e0c
+    projectPath: Library/Artifacts/49/49927f994f5c71159a67f234d5ae5e0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4e/4ec0d9931c1fae47cc1cba260859dc0b
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/4e/4ec0d9931c1fae47cc1cba260859dc0b
+    projectPath: Library/Artifacts/4e/4ec0d9931c1fae47cc1cba260859dc0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4e/4eca8f62d30c286927bdb6737cd56210
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/4e/4eca8f62d30c286927bdb6737cd56210
+    projectPath: Library/Artifacts/4e/4eca8f62d30c286927bdb6737cd56210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/54/5412a0aab5db4e84fb6d05beda3b4637
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/54/5412a0aab5db4e84fb6d05beda3b4637
+    projectPath: Library/Artifacts/54/5412a0aab5db4e84fb6d05beda3b4637
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/54/54648120a3115f82bccd1758b492177d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/54/54648120a3115f82bccd1758b492177d
+    projectPath: Library/Artifacts/54/54648120a3115f82bccd1758b492177d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6f/6fcf238714a8d6faa7cec918398b47b0
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/6f/6fcf238714a8d6faa7cec918398b47b0
+    projectPath: Library/Artifacts/6f/6fcf238714a8d6faa7cec918398b47b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/77/77b42c8f3859a9672665f261411d8c16
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/77/77b42c8f3859a9672665f261411d8c16
+    projectPath: Library/Artifacts/77/77b42c8f3859a9672665f261411d8c16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7b/7bc8b2e231384dd0e03ae44891395cfb
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/7b/7bc8b2e231384dd0e03ae44891395cfb
+    projectPath: Library/Artifacts/7b/7bc8b2e231384dd0e03ae44891395cfb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7f/7fba5443aefaa247e23fab81fef6ca8d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/7f/7fba5443aefaa247e23fab81fef6ca8d
+    projectPath: Library/Artifacts/7f/7fba5443aefaa247e23fab81fef6ca8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82cb1a7e557b09b7f6d35eb216ec9428
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/82/82cb1a7e557b09b7f6d35eb216ec9428
+    projectPath: Library/Artifacts/82/82cb1a7e557b09b7f6d35eb216ec9428
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8b/8bc79b2dc2217d62a730759b40b430c0
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/8b/8bc79b2dc2217d62a730759b40b430c0
+    projectPath: Library/Artifacts/8b/8bc79b2dc2217d62a730759b40b430c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8e/8e2c8c8fd9c148329048b4dff1566e1e
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/8e/8e2c8c8fd9c148329048b4dff1566e1e
+    projectPath: Library/Artifacts/8e/8e2c8c8fd9c148329048b4dff1566e1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/90/906b89ec877e98bc9d9c861f735c34ae
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/90/906b89ec877e98bc9d9c861f735c34ae
+    projectPath: Library/Artifacts/90/906b89ec877e98bc9d9c861f735c34ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/98/98dd4aca31e94d06ad1d170b7376b0f0
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/98/98dd4aca31e94d06ad1d170b7376b0f0
+    projectPath: Library/Artifacts/98/98dd4aca31e94d06ad1d170b7376b0f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a3/a38584fd8f8f2f2995d277f7cb9b7310
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/a3/a38584fd8f8f2f2995d277f7cb9b7310
+    projectPath: Library/Artifacts/a3/a38584fd8f8f2f2995d277f7cb9b7310
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a8/a819a5a2c41e8f289ebf407925458082
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/a8/a819a5a2c41e8f289ebf407925458082
+    projectPath: Library/Artifacts/a8/a819a5a2c41e8f289ebf407925458082
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/aa/aa22921a96d58692790e2f9bf759655b
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/aa/aa22921a96d58692790e2f9bf759655b
+    projectPath: Library/Artifacts/aa/aa22921a96d58692790e2f9bf759655b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/ac7a5090a7b1dcd2c34f523bf4214954
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/ac/ac7a5090a7b1dcd2c34f523bf4214954
+    projectPath: Library/Artifacts/ac/ac7a5090a7b1dcd2c34f523bf4214954
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ad/addf2d8ddbaf5046bd038c1f0882b384
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/ad/addf2d8ddbaf5046bd038c1f0882b384
+    projectPath: Library/Artifacts/ad/addf2d8ddbaf5046bd038c1f0882b384
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bf/bfb866a0d581e91308a49c393591c385
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/bf/bfb866a0d581e91308a49c393591c385
+    projectPath: Library/Artifacts/bf/bfb866a0d581e91308a49c393591c385
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cb/cbc1a8dae89751bc6a9149653f2251a4
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/cb/cbc1a8dae89751bc6a9149653f2251a4
+    projectPath: Library/Artifacts/cb/cbc1a8dae89751bc6a9149653f2251a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d8/d807a4381944ecd68557a39d8af0b829
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/d8/d807a4381944ecd68557a39d8af0b829
+    projectPath: Library/Artifacts/d8/d807a4381944ecd68557a39d8af0b829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d9/d91439fa70730201d0b4c53386b1f782
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/d9/d91439fa70730201d0b4c53386b1f782
+    projectPath: Library/Artifacts/d9/d91439fa70730201d0b4c53386b1f782
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/db/db4e086bbf1cfd07be10b0a55314394d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/db/db4e086bbf1cfd07be10b0a55314394d
+    projectPath: Library/Artifacts/db/db4e086bbf1cfd07be10b0a55314394d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/db/db8d51ed9683e0e7066d288e3c8ded1a
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/db/db8d51ed9683e0e7066d288e3c8ded1a
+    projectPath: Library/Artifacts/db/db8d51ed9683e0e7066d288e3c8ded1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/de/de8ebd019130d8d815dd32db9e0f7a58
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/de/de8ebd019130d8d815dd32db9e0f7a58
+    projectPath: Library/Artifacts/de/de8ebd019130d8d815dd32db9e0f7a58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e586828888a587f25662cb25cabc038b
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/e5/e586828888a587f25662cb25cabc038b
+    projectPath: Library/Artifacts/e5/e586828888a587f25662cb25cabc038b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e5dacd555cf9c0e3b1231c68b9de426b
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/e5/e5dacd555cf9c0e3b1231c68b9de426b
+    projectPath: Library/Artifacts/e5/e5dacd555cf9c0e3b1231c68b9de426b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e6/e629289999d17507416857e4c1a50488
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/e6/e629289999d17507416857e4c1a50488
+    projectPath: Library/Artifacts/e6/e629289999d17507416857e4c1a50488
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e9d877507acba3508844bcabaca3332a
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/e9/e9d877507acba3508844bcabaca3332a
+    projectPath: Library/Artifacts/e9/e9d877507acba3508844bcabaca3332a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/eb/eb8abdeb3713886b8663fc8e9ee01def
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/eb/eb8abdeb3713886b8663fc8e9ee01def
+    projectPath: Library/Artifacts/eb/eb8abdeb3713886b8663fc8e9ee01def
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ee/eeeb3829bf42156797b70f8fa9a7707d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/ee/eeeb3829bf42156797b70f8fa9a7707d
+    projectPath: Library/Artifacts/ee/eeeb3829bf42156797b70f8fa9a7707d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7ca0435dd24fb235b5df7861bdcf54d
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/f7/f7ca0435dd24fb235b5df7861bdcf54d
+    projectPath: Library/Artifacts/f7/f7ca0435dd24fb235b5df7861bdcf54d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f8/f848a1fca8aea052ac2fd133f53e0682
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/f8/f848a1fca8aea052ac2fd133f53e0682
+    projectPath: Library/Artifacts/f8/f848a1fca8aea052ac2fd133f53e0682
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fb/fb0135b61bcac4bd34425d53f443bd2f
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/fb/fb0135b61bcac4bd34425d53f443bd2f
+    projectPath: Library/Artifacts/fb/fb0135b61bcac4bd34425d53f443bd2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/ffa0dfa36d53a3ad75f1b4b708227772
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/ff/ffa0dfa36d53a3ad75f1b4b708227772
+    projectPath: Library/Artifacts/ff/ffa0dfa36d53a3ad75f1b4b708227772
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/fff20b512c0be37665c468158c37eb80
+    fullPath: /home/unity/Projects/VegeRun/Library/Artifacts/ff/fff20b512c0be37665c468158c37eb80
+    projectPath: Library/Artifacts/ff/fff20b512c0be37665c468158c37eb80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /home/unity/Projects/VegeRun/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /home/unity/Projects/VegeRun/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /home/unity/Projects/VegeRun/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /home/unity/Projects/VegeRun/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /home/unity/Projects/VegeRun/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/PsdPlugin.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/PsdPlugin.dll
+    projectPath: Library/ScriptAssemblies/PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.Mathematics.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /home/unity/Projects/VegeRun/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /home/unity/Projects/VegeRun/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB-lock
+    fullPath: /home/unity/Projects/VegeRun/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/eadcac-mainStage.json
+    fullPath: /home/unity/Projects/VegeRun/Library/StateCache/Hierarchy/eadcac-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/eadcac-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: /home/unity/Projects/VegeRun/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /home/unity/Projects/VegeRun/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0d36904dc511794f4944f3558fe87f05
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-0d36904dc511794f4944f3558fe87f05
+    projectPath: Temp/UnityTempFile-0d36904dc511794f4944f3558fe87f05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0fb2732e6225eaa8d8003827febe43f2
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-0fb2732e6225eaa8d8003827febe43f2
+    projectPath: Temp/UnityTempFile-0fb2732e6225eaa8d8003827febe43f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1ad00a1feecec94288a5d6f83e725803
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-1ad00a1feecec94288a5d6f83e725803
+    projectPath: Temp/UnityTempFile-1ad00a1feecec94288a5d6f83e725803
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1f40ceeaa8cef92b480a5372e1adeead
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-1f40ceeaa8cef92b480a5372e1adeead
+    projectPath: Temp/UnityTempFile-1f40ceeaa8cef92b480a5372e1adeead
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-23b6b48fe3d7cf724a249016801d1328
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-23b6b48fe3d7cf724a249016801d1328
+    projectPath: Temp/UnityTempFile-23b6b48fe3d7cf724a249016801d1328
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-25d2704769e70cc8ba08d26e2546ece6
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-25d2704769e70cc8ba08d26e2546ece6
+    projectPath: Temp/UnityTempFile-25d2704769e70cc8ba08d26e2546ece6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-261e33d5c96cd0ffc93708d526e4a629
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-261e33d5c96cd0ffc93708d526e4a629
+    projectPath: Temp/UnityTempFile-261e33d5c96cd0ffc93708d526e4a629
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2d00a4b8f89077e8a8c2bf1c163b2048
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-2d00a4b8f89077e8a8c2bf1c163b2048
+    projectPath: Temp/UnityTempFile-2d00a4b8f89077e8a8c2bf1c163b2048
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2ff7b8daf12ee5ab38caee105703ebfc
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-2ff7b8daf12ee5ab38caee105703ebfc
+    projectPath: Temp/UnityTempFile-2ff7b8daf12ee5ab38caee105703ebfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3af759f5fae38996aa0df11739cf710e
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-3af759f5fae38996aa0df11739cf710e
+    projectPath: Temp/UnityTempFile-3af759f5fae38996aa0df11739cf710e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3c998d80415de083ea559cd7425de9f8
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-3c998d80415de083ea559cd7425de9f8
+    projectPath: Temp/UnityTempFile-3c998d80415de083ea559cd7425de9f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-416d4e7361af210858a79d0790a4eccb
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-416d4e7361af210858a79d0790a4eccb
+    projectPath: Temp/UnityTempFile-416d4e7361af210858a79d0790a4eccb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-469bee32147455ca8b0a5f6208cb40b3
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-469bee32147455ca8b0a5f6208cb40b3
+    projectPath: Temp/UnityTempFile-469bee32147455ca8b0a5f6208cb40b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4c61ef3379e5a7a23851c91ae04756c2
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-4c61ef3379e5a7a23851c91ae04756c2
+    projectPath: Temp/UnityTempFile-4c61ef3379e5a7a23851c91ae04756c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4f15bd2495d69925d861edb8e83ca587
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-4f15bd2495d69925d861edb8e83ca587
+    projectPath: Temp/UnityTempFile-4f15bd2495d69925d861edb8e83ca587
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-50e2438067b96a8e4957e96bee6874d9
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-50e2438067b96a8e4957e96bee6874d9
+    projectPath: Temp/UnityTempFile-50e2438067b96a8e4957e96bee6874d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-53790b2e7d0b909648b7e4757e6960a4
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-53790b2e7d0b909648b7e4757e6960a4
+    projectPath: Temp/UnityTempFile-53790b2e7d0b909648b7e4757e6960a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-55feb841d26ce4cbe8dcd5332dc51fc6
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-55feb841d26ce4cbe8dcd5332dc51fc6
+    projectPath: Temp/UnityTempFile-55feb841d26ce4cbe8dcd5332dc51fc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-60a5ecf68e636425c90653ce3a9718c1
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-60a5ecf68e636425c90653ce3a9718c1
+    projectPath: Temp/UnityTempFile-60a5ecf68e636425c90653ce3a9718c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-60c600d72cc6c2aac81a6bd9b63a94d3
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-60c600d72cc6c2aac81a6bd9b63a94d3
+    projectPath: Temp/UnityTempFile-60c600d72cc6c2aac81a6bd9b63a94d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7068229dd6681c1039bd5f91ac9249fb
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-7068229dd6681c1039bd5f91ac9249fb
+    projectPath: Temp/UnityTempFile-7068229dd6681c1039bd5f91ac9249fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-70a41ac6d51266b409f39133bdada916
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-70a41ac6d51266b409f39133bdada916
+    projectPath: Temp/UnityTempFile-70a41ac6d51266b409f39133bdada916
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-75a430b2846c2d1b1b892cc6a12e1cd5
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-75a430b2846c2d1b1b892cc6a12e1cd5
+    projectPath: Temp/UnityTempFile-75a430b2846c2d1b1b892cc6a12e1cd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-78820812404b155e8a6d66ecd37e3d2c
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-78820812404b155e8a6d66ecd37e3d2c
+    projectPath: Temp/UnityTempFile-78820812404b155e8a6d66ecd37e3d2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-91b74a2227d8fb03586d04b527bdadec
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-91b74a2227d8fb03586d04b527bdadec
+    projectPath: Temp/UnityTempFile-91b74a2227d8fb03586d04b527bdadec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-99fbd05c03cc24612af2e4fed80e0c1f
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-99fbd05c03cc24612af2e4fed80e0c1f
+    projectPath: Temp/UnityTempFile-99fbd05c03cc24612af2e4fed80e0c1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c7c56b3fd56d788aa8e8f86524624647
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-c7c56b3fd56d788aa8e8f86524624647
+    projectPath: Temp/UnityTempFile-c7c56b3fd56d788aa8e8f86524624647
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cb5909054108831ccb71a7f9fe343af5
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-cb5909054108831ccb71a7f9fe343af5
+    projectPath: Temp/UnityTempFile-cb5909054108831ccb71a7f9fe343af5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ccc932ece6058ba17b9c166115eb53b0
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-ccc932ece6058ba17b9c166115eb53b0
+    projectPath: Temp/UnityTempFile-ccc932ece6058ba17b9c166115eb53b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d17077d6dba2e1b6685b760e675f99ef
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-d17077d6dba2e1b6685b760e675f99ef
+    projectPath: Temp/UnityTempFile-d17077d6dba2e1b6685b760e675f99ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d955d0708e0fb1d74a5a4078d5bfff03
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-d955d0708e0fb1d74a5a4078d5bfff03
+    projectPath: Temp/UnityTempFile-d955d0708e0fb1d74a5a4078d5bfff03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-da9a96c2ffb22c808b3e47c2ff9fbb25
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-da9a96c2ffb22c808b3e47c2ff9fbb25
+    projectPath: Temp/UnityTempFile-da9a96c2ffb22c808b3e47c2ff9fbb25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e01c07533ccc3d3ada9f6098938850cd
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-e01c07533ccc3d3ada9f6098938850cd
+    projectPath: Temp/UnityTempFile-e01c07533ccc3d3ada9f6098938850cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e368be41593cd595abb74e3d2b5767f7
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-e368be41593cd595abb74e3d2b5767f7
+    projectPath: Temp/UnityTempFile-e368be41593cd595abb74e3d2b5767f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e57eb4724323efde8b5a410346875e6d
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-e57eb4724323efde8b5a410346875e6d
+    projectPath: Temp/UnityTempFile-e57eb4724323efde8b5a410346875e6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ef06206b3f1e5261ba9945469716cdcc
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-ef06206b3f1e5261ba9945469716cdcc
+    projectPath: Temp/UnityTempFile-ef06206b3f1e5261ba9945469716cdcc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f5b8c9289a6bfd6acbb5924b2fbf6159
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-f5b8c9289a6bfd6acbb5924b2fbf6159
+    projectPath: Temp/UnityTempFile-f5b8c9289a6bfd6acbb5924b2fbf6159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f5e028101f980126fa23065210b1b323
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-f5e028101f980126fa23065210b1b323
+    projectPath: Temp/UnityTempFile-f5e028101f980126fa23065210b1b323
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f726116cf0c3d27878529114e681be95
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-f726116cf0c3d27878529114e681be95
+    projectPath: Temp/UnityTempFile-f726116cf0c3d27878529114e681be95
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f92bc393db1ef347d87d7c0083274ce3
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-f92bc393db1ef347d87d7c0083274ce3
+    projectPath: Temp/UnityTempFile-f92bc393db1ef347d87d7c0083274ce3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-feb1ad324614365cda0e4b1e9cc0dbb0
+    fullPath: /home/unity/Projects/VegeRun/Temp/UnityTempFile-feb1ad324614365cda0e4b1e9cc0dbb0
+    projectPath: Temp/UnityTempFile-feb1ad324614365cda0e4b1e9cc0dbb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
